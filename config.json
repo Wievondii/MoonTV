@@ -446,6 +446,66 @@
     "api": "https://fuliba2023.net/m3u/adult.json",
     "name": "福利成人直播",
     "params": ""
+  },
+  "json_porn_feet": {
+    "api": "https://api.json-porn.com/search",
+    "name": "JSON Porn Foot Fetish（欧美/日韩混合）",
+    "params": "?query=foot fetish OR barefoot worship&count=20"
+  },
+  "eporner_feet": {
+    "api": "https://www.eporner.com/api/v2/video/search/",
+    "name": "Eporner Foot API（欧美高清足控）",
+    "params": "?query=foot worship&per_page=50&order=top"
+  },
+  "xvideos_foot": {
+    "api": "https://www.xvideos.com/api/search.php",
+    "name": "XVideos Foot Search（日韩JAV足恋）",
+    "params": "?k=jav foot fetish&p=1"
+  },
+  "spankbang_foot": {
+    "api": "https://spankbang.com/api/search",
+    "name": "SpankBang Foot Worship（裸足崇拜视频）",
+    "params": "?q=barefoot foot worship&sort=latest"
+  },
+  "xhamster_feet": {
+    "api": "https://xhamster.com/search/api",
+    "name": "XHamster Feet Tube（欧美sole licking）",
+    "params": "?q=foot fetish&from=1&count=30"
+  },
+  "pornhub_feet": {
+    "api": "https://www.pornhub.com/webmasters/search",
+    "name": "PornHub Foot API（日韩nylon footjob）",
+    "params": "?search=foot worship&type=video"
+  },
+  "xnxx_foot": {
+    "api": "https://www.xnxx.com/search/api",
+    "name": "XNXX JAV Foot（日本足控无码）",
+    "params": "?query=jav foot worship&limit=20"
+  },
+  "feet9_api": {
+    "api": "https://www.feet9.com/api/videos",
+    "name": "Feet9 Foot Fetish（专用足控站）",
+    "params": "?tag=barefoot&limit=50"
+  },
+  "tnaflix_foot": {
+    "api": "https://www.tnaflix.com/search/api",
+    "name": "TNAFlix Foot Worship（欧美经典）",
+    "params": "?q=foot fetish&sort=views"
+  },
+  "hdzog_feet": {
+    "api": "https://www.hdzog.com/search/api",
+    "name": "HDZog HD Foot（高清日韩足恋）",
+    "params": "?s=barefoot jav&res=1080p"
+  },
+  "javtrailers_foot": {
+    "api": "https://javtrailers.com/api/search",
+    "name": "JAV Trailers Foot（日本AV足控预览）",
+    "params": "?q=foot fetish&hd=1"
+  },
+  "missav_foot": {
+    "api": "https://missav.com/api/genres",
+    "name": "MissAV JAV Foot（日韩专用）",
+    "params": "?genre=Foot Fetish&page=1"
   }
     
   }
