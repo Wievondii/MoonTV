@@ -85,7 +85,7 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-       "fantuan": {
+    "fantuan": {
       "api": "https://www.fantuan.tv/api.php/provide/vod/",
       "name": "饭团影视"
     },
@@ -96,6 +96,357 @@
     "qiqidys": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七资源"
-    }
+    },
+    "feisuzy": {
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "name": "飞速资源",
+    "params": "?ac=list 或 ?ac=videolist&t=1&h=24"
+  },
+  "fqzy": {
+    "api": "http://api.fqzy.cc/api.php/provide/vod/",
+    "name": "番茄资源",
+    "params": "?ac=list"
+  },
+  "tiankongzy": {
+    "api": "http://www.tiankongzy.com/api.php/provide/vod/",
+    "name": "天空资源",
+    "params": "?ac=list"
+  },
+  "apibdzy": {
+    "api": "https://api.apibdzy.com/api.php/provide/vod/",
+    "name": "百度云资源",
+    "params": "?ac=list"
+  },
+  "jijisi": {
+    "api": "https://v.jijisi.com/api.php/provide/vod/at/xml/",
+    "name": "吉吉巳资源",
+    "params": "?ac=list"
+  },
+  "kuyunzy": {
+    "api": "http://www.kuyunzy1.com/api.php/provide/vod/",
+    "name": "酷云资源",
+    "params": "?ac=list"
+  },
+  "1080zy": {
+    "api": "http://www.1080zyku.com:88/api.php/provide/vod/",
+    "name": "1080资源",
+    "params": "?ac=list"
+  },
+  "yy336": {
+    "api": "https://www.yy336.com/api.php/provide/vod/",
+    "name": "336资源",
+    "params": "?ac=list"
+  },
+  "subaibai": {
+    "api": "https://www.subaibai.com/api.php/provide/vod/",
+    "name": "速白白资源",
+    "params": "?ac=list"
+  },
+  "wolongzy": {
+    "api": "https://www.wolongzyw.com/api.php/provide/vod/",
+    "name": "卧龙资源",
+    "params": "?ac=list"
+  },
+  "czzyzy": {
+    "api": "https://www.czzyzy.com/api.php/provide/vod/",
+    "name": "厂长资源",
+    "params": "?ac=list"
+  },
+  "kyzy": {
+    "api": "https://www.kyzy.tv/api.php/provide/vod/",
+    "name": "酷云影视",
+    "params": "?ac=list"
+  },
+  "kkzy": {
+    "api": "https://www.kkzy.tv/api.php/provide/vod/",
+    "name": "快看资源",
+    "params": "?ac=list"
+  },
+  "hhzy": {
+    "api": "https://www.hhzy.tv/api.php/provide/vod/",
+    "name": "红狐资源",
+    "params": "?ac=list"
+  },
+   "mozhuazy": {
+    "api": "https://mozhuazy.com/api.php/provide/vod",
+    "name": "魔爪资源",
+    "params": "?ac=videolist&wd=关键词"
+  },
+  "msnii": {
+    "api": "https://www.msnii.com/api/xml.php",
+    "name": "美少女资源",
+    "params": "?ac=videolist"
+  },
+  "xrbsp": {
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "name": "淫水机资源",
+    "params": "?ac=videolist"
+  },
+  "gdlsp": {
+    "api": "https://www.gdlsp.com/api/xml.php",
+    "name": "香奶儿资源",
+    "params": "?ac=videolist"
+  },
+  "kxgav": {
+    "api": "https://www.kxgav.com/api/xml.php",
+    "name": "白嫖AV资源",
+    "params": "?ac=videolist"
+  },
+  "afasu": {
+    "api": "https://www.afasu.com/api/xml.php",
+    "name": "小湿妹资源",
+    "params": "?ac=videolist"
+  },
+  "jcspcj": {
+    "api": "http://jcspcj8.com/sapi",
+    "name": "久草资源",
+    "params": "?ac=videolist"
+  },
+  "secj": {
+    "api": "http://secj8.com/inc/sapi.php",
+    "name": "色色在线资源",
+    "params": "?ac=videolist"
+  },
+  "f2dcj": {
+    "api": "http://f2dcj6.com/sapi",
+    "name": "富二代资源",
+    "params": "?ac=videolist"
+  },
+  "zmcj": {
+    "api": "http://zmcj88.com/sapi",
+    "name": "字幕AV资源",
+    "params": "?ac=videolist"
+  },
+  "avzy6888": {
+    "api": "http://m.7777688.com/inc/apijson.php",
+    "name": "AVZY6888资源",
+    "params": "?ac=list"
+  },
+  "jializyzapi": {
+    "api": "http://www.jializyzapi.com/api.php/provide/vod/",
+    "name": "佳丽资源",
+    "params": "?ac=list"
+  },
+  "yyzywcj": {
+    "api": "https://www.yyzywcj.com/api.php/provide/vod/",
+    "name": "YY资源网",
+    "params": "?ac=list"
+  },
+  "ggmmzy": {
+    "api": "http://www.ggmmzy.com:9999/inc/xml",
+    "name": "速度资源（成人）",
+    "params": "?ac=videolist"
+  },
+  "laosebizy": {
+    "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml/",
+    "name": "老色逼资源（欧美日韩混合）",
+    "params": "?ac=videolist"
+  },
+  "apilj": {
+    "api": "https://apilj.com/api.php/provide/vod/",
+    "name": "辣椒资源（日韩无码为主）",
+    "params": "?ac=list"
+  },
+  "avdbapi": {
+    "api": "https://avdbapi.com/api/search",
+    "name": "AVDB API（日本AV专区）",
+    "params": "?query=关键词&category=japanese"
+  },
+  "xvidapi": {
+    "api": "https://xvidapi.com/api/videos",
+    "name": "Xvid API（欧美成人视频）",
+    "params": "?category=asian OR european&limit=50"
+  },
+  "eporner": {
+    "api": "https://www.eporner.com/api/v2/video/search/",
+    "name": "Eporner API（欧美高清成人）",
+    "params": "?query=欧美&per_page=50&order=top-weekly"
+  },
+  "json_porn": {
+    "api": "https://api.json-porn.com/search",
+    "name": "JSON Porn API（日韩欧美通用）",
+    "params": "?query=japanese OR european&count=20"
+  },
+  "mvideos": {
+    "api": "https://mvideos.pro/api/videos",
+    "name": "MVideos API（欧美日韩韩国混合）",
+    "params": "?tag=korean OR japanese&limit=30"
+  },
+  "javinfo": {
+    "api": "https://javinfo-api.com/api/info",
+    "name": "JAVInfo API（日本成人视频刮取）",
+    "params": "?code=JAV代码 如 ABP-123"
+  },
+  "hubtraffic": {
+    "api": "https://www.pornhub.com/webmasters/search",
+    "name": "PornHub Traffic API（欧美日韩网络）",
+    "params": "?search=关键词&type=video"
+  },
+  "xvideos_lib": {
+    "api": "https://www.xvideos.com/api/search.php",
+    "name": "XVideos API（欧美日韩搜索）",
+    "params": "?k=关键词&p=1"
+  },
+  "pdbme": {
+    "api": "https://pdbme.com/api/releases",
+    "name": "PDB Adult DB（欧美成人数据库）",
+    "params": "?category=european&format=json"
+  },
+  "erome": {
+    "api": "https://www.erome.com/api/json.php",
+    "name": "Erome API（用户上传欧美视频）",
+    "params": "?t=user_gallery&username=用户名"
+  },
+   "iptv-org": {
+    "api": "https://iptv-org.github.io/iptv/index.m3u",
+    "name": "全球IPTV（13000+频道）",
+    "params": "?country=CN（中国） OR US（欧美）"
+  },
+  "iptv-org-sports": {
+    "api": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+    "name": "体育直播源（NBA/F1/足球）",
+    "params": ""
+  },
+  "iptv-org-games": {
+    "api": "https://iptv-org.github.io/iptv/categories/gaming.m3u",
+    "name": "游戏直播源（Twitch/电竞）",
+    "params": ""
+  },
+  "dongyubin-iptv": {
+    "api": "https://raw.githubusercontent.com/dongyubin/IPTV/main/tvbox.json",
+    "name": "2025体育/F1直播源",
+    "params": ""
+  },
+  "guovin-iptv-api": {
+    "api": "https://iptv.guovin.cn/api/get",
+    "name": "自动更新IPTV API",
+    "params": "?type=all"
+  },
+  "live-zbds": {
+    "api": "https://live.zbds.top/api/channels",
+    "name": "每日更新电视源",
+    "params": "?pg=1"
+  },
+  "vbskycn-iptv": {
+    "api": "https://raw.githubusercontent.com/vbskycn/iptv/main/source.txt",
+    "name": "IPv4/IPv6双栈直播",
+    "params": ""
+  },
+  "ngo5-iptv": {
+    "api": "https://raw.githubusercontent.com/ngo5/IPTV/main/iptv.m3u",
+    "name": "TVBox点播+直播",
+    "params": ""
+  },
+  "suxuang-myiptv": {
+    "api": "https://raw.githubusercontent.com/suxuang/myIPTV/main/直播源.m3u",
+    "name": "高清卫视+EPG",
+    "params": ""
+  },
+  "sportlive360": {
+    "api": "http://api.sportlive360.com/match/list",
+    "name": "体育赛事列表API",
+    "params": "?date=2025-10-30"
+  },
+  "menghuan68-sports": {
+    "api": "https://api.menghuan68.com/sports/live",
+    "name": "足球/篮球直播源",
+    "params": "?league=NBA"
+  },
+  "aa1-tvsearch": {
+    "api": "https://api.aa1.cn/api/TvSearch/index",
+    "name": "电视聚合直播API",
+    "params": "?wd=体育"
+  },
+  "iptv-org-entertainment": {
+    "api": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+    "name": "娱乐/综艺直播",
+    "params": ""
+  },
+  "twitch-api": {
+    "api": "https://api.twitch.tv/helix/streams?game=League%20of%20Legends",
+    "name": "Twitch游戏直播（免费，无Key）",
+    "params": "?first=20"
+  },
+  "jianzhishijie-live": {
+    "api": "https://www.jianzhishijie.com/api/live/sources",
+    "name": "港澳台直播源",
+    "params": ""
+  },
+   "wwb521-live": {
+    "api": "https://raw.githubusercontent.com/wwb521/live/main/adult.m3u",
+    "name": "成人TVBox直播（2025更新）",
+    "params": ""
+  },
+  "facaiooo-adult": {
+    "api": "https://raw.githubusercontent.com/facaiooo/onwer/main/成人直播源（2760个已测试）.m3u8",
+    "name": "2760+成人M3U8源",
+    "params": ""
+  },
+  "yanag-1989-live": {
+    "api": "https://raw.githubusercontent.com/YanG-1989/OpenList/main/tvbox/adult.json",
+    "name": "8K成人直播源",
+    "params": ""
+  },
+  "97444-adult": {
+    "api": "https://www.97444.cn/adult-iptv.m3u",
+    "name": "10+成人频道高清",
+    "params": ""
+  },
+  "jokerps-adult": {
+    "api": "https://www.jokerps.com/iptv/adult.m3u",
+    "name": "欧美成人5000+源",
+    "params": "?region=US"
+  },
+  "kanav-live": {
+    "api": "https://kanav.info/api/live/adult",
+    "name": "高端主播直播（日韩）",
+    "params": "?type=japanese"
+  },
+  "18j-tv": {
+    "api": "https://18j.tv/api/live/main",
+    "name": "主播大秀（欧美/国产）",
+    "params": "?page=1"
+  },
+  "json-porn-live": {
+    "api": "https://api.json-porn.com/live/search",
+    "name": "JSON成人直播API",
+    "params": "?query=japanese OR european"
+  },
+  "chaturbate-api": {
+    "api": "https://js.chaturbate.com/api/onair/",
+    "name": "Chaturbate欧美直播（免费）",
+    "params": "?category=asian"
+  },
+  "bongacams-api": {
+    "api": "https://www.bongacams.com/tools/api?method=onlinerooms",
+    "name": "BongaCams日韩/欧美",
+    "params": "?category=japan"
+  },
+  "stripchat-api": {
+    "api": "https://stripchat.com/api/rooms",
+    "name": "Stripchat高清成人",
+    "params": "?country=JP OR US"
+  },
+  "livejasmin-api": {
+    "api": "https://www.livejasmin.com/api/rooms",
+    "name": "LiveJasmin高端欧美",
+    "params": "?tags=asian"
+  },
+  "cam4-api": {
+    "api": "https://www.cam4.com/api/v2/rooms",
+    "name": "Cam4免费成人直播",
+    "params": "?filter=korean"
+  },
+  "ahhhhfs-adult": {
+    "api": "https://www.ahhhhfs.com/iptv/adult.m3u",
+    "name": "海外成人直播源",
+    "params": ""
+  },
+  "fuliba-m3u": {
+    "api": "https://fuliba2023.net/m3u/adult.json",
+    "name": "福利成人直播",
+    "params": ""
+  }
+    
   }
 }
